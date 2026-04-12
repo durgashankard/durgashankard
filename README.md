@@ -57,6 +57,7 @@ Git, GitHub, Vercel
 * 📱 Responsive UI
 
 🔗 Live Demo: https://weather-app-create-using-controlled-c.netlify.app/
+
 📂 Repo: https://github.com/durgashankard/Weather-App-Create-using-Controlled-Component
 
 ---
@@ -68,6 +69,7 @@ Git, GitHub, Vercel
 * 🎯 Clean UI design
 
 🔗 Live Demo: 
+
 📂 Repo: 
 
 ---
@@ -79,6 +81,7 @@ Git, GitHub, Vercel
 * ⚡ Fully responsive
 
 🔗 Live Demo: 
+
 📂 Repo: 
 
 ---
