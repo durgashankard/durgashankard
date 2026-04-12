@@ -11,7 +11,6 @@
 * 🚀 Built multiple React-based projects
 * ⚛️ Strong in Frontend Development
 * 🔥 Currently learning Full Stack (MERN)
-* 📈 Improving Problem Solving & DSA
 * ⚡ Passionate about real-world applications
 
 ---
@@ -22,7 +21,6 @@
 * 🌐 Skilled in HTML, CSS, JavaScript
 * 🔗 Love working with APIs & dynamic apps
 * 📦 Learning Backend (Node.js, Express, MongoDB)
-* 🚀 Goal: Crack top MNC & build scalable apps
 
 ---
 
@@ -58,8 +56,8 @@ Git, GitHub, Vercel
 * ⚛️ Built with React
 * 📱 Responsive UI
 
-🔗 Live Demo: https://your-demo-link.vercel.app
-📂 Repo: https://github.com/your-repo
+🔗 Live Demo: 
+📂 Repo: 
 
 ---
 
@@ -69,8 +67,8 @@ Git, GitHub, Vercel
 * ⚛️ React + API integration
 * 🎯 Clean UI design
 
-🔗 Live Demo: https://your-demo-link.vercel.app
-📂 Repo: https://github.com/your-repo
+🔗 Live Demo: 
+📂 Repo: 
 
 ---
 
@@ -80,8 +78,8 @@ Git, GitHub, Vercel
 * 🎨 Modern UI design
 * ⚡ Fully responsive
 
-🔗 Live Demo: https://your-demo-link.vercel.app
-📂 Repo: https://github.com/your-repo
+🔗 Live Demo: 
+📂 Repo: 
 
 ---
 
