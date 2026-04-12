@@ -1,17 +1,28 @@
 # 👋 Hi, I'm Durgashankar
 
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;MERN+Stack+Learner;JavaScript+Enthusiast\&center=true\&color=00FF00)
+🚀 **MERN Stack Developer | React Specialist | JavaScript Enthusiast**
+
+![Typing](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;MERN+Stack+Learner;Building+Real+World+Projects\&center=true\&color=00FF00)
+
+---
+
+## ⭐ Highlights
+
+* 🚀 Built multiple React-based projects
+* ⚛️ Strong in Frontend Development
+* 🔥 Currently learning Full Stack (MERN)
+* 📈 Improving Problem Solving & DSA
+* ⚡ Passionate about real-world applications
 
 ---
 
 ## 👨‍💻 About Me
 
 * 💻 Frontend Developer (React Focused)
-* ⚛️ Passionate about building modern UI with React
-* 🌐 Strong in Web Development (HTML, CSS, JS)
-* 🔗 Love working with APIs & real-world projects
-* 🚀 Currently learning Full Stack (MERN)
-* 🔥 Always improving problem-solving skills
+* 🌐 Skilled in HTML, CSS, JavaScript
+* 🔗 Love working with APIs & dynamic apps
+* 📦 Learning Backend (Node.js, Express, MongoDB)
+* 🚀 Goal: Crack top MNC & build scalable apps
 
 ---
 
@@ -21,25 +32,73 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,git,github" />
 </p>
 
-### ⚙️ Core Skills
+### 💻 Frontend
 
-* HTML5 / CSS3
-* JavaScript (ES6+)
-* React JS
-* REST APIs
-* Axios
-* React Router DOM
-* Formik
-* React Hook Form
+React JS, JavaScript (ES6+), HTML5, CSS3, Tailwind, Bootstrap
+
+### ⚙️ Backend
+
+Node.js, Express.js
+
+### 🗄️ Database
+
+MongoDB
+
+### 🔧 Tools
+
+Git, GitHub, Vercel
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-* 🔹 Weather App (API + React)
-* 🔹 E-commerce Product Page
-* 🔹 Portfolio Website
-* 🔹 GitHub Projects Collection
+### 🌦️ Weather App
+
+* 🌐 API Integration (Real-time weather data)
+* ⚛️ Built with React
+* 📱 Responsive UI
+
+🔗 Live Demo: https://your-demo-link.vercel.app
+📂 Repo: https://github.com/your-repo
+
+---
+
+### 🛒 E-commerce Product Page
+
+* 🛍️ Product listing & filtering
+* ⚛️ React + API integration
+* 🎯 Clean UI design
+
+🔗 Live Demo: https://your-demo-link.vercel.app
+📂 Repo: https://github.com/your-repo
+
+---
+
+### 🌐 Portfolio Website
+
+* 💼 Personal portfolio
+* 🎨 Modern UI design
+* ⚡ Fully responsive
+
+🔗 Live Demo: https://your-demo-link.vercel.app
+📂 Repo: https://github.com/your-repo
+
+---
+
+## 📚 Currently Learning
+
+* ⚛️ Advanced React (Performance Optimization)
+* 🌐 Backend Development (Node.js, Express)
+* 🧠 Data Structures & Algorithms
+* 🏗️ System Design Basics
+
+---
+
+## 🧠 Problem Solving
+
+* 📌 Practicing DSA regularly
+* 💡 Strong in Arrays, Strings, Basics
+* 🚀 Preparing for technical interviews
 
 ---
 
@@ -47,7 +106,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=durgashankard&show_icons=true&theme=radical&count_private=true"/>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgashankard&layout=donut"/>
 </p>
 
@@ -73,6 +131,14 @@
 
 ---
 
+## 🎯 Looking For
+
+* 💼 Frontend / React Developer Role
+* 🚀 Internship / Full-time opportunities
+* 🌍 Open Source Contributions
+
+---
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/durgashankar-dangi-631b08259/)
@@ -90,4 +156,4 @@
 
 ---
 
-> 💡 "Code. Learn. Build. Repeat."
+> 💡 **"Code. Learn. Build. Repeat."**
