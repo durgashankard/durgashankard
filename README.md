@@ -95,11 +95,7 @@ Git, GitHub, Vercel
 
 ---
 
-## 🧠 Problem Solving
 
-* 📌 Practicing DSA regularly
-* 💡 Strong in Arrays, Strings, Basics
-* 🚀 Preparing for technical interviews
 
 ---
 
