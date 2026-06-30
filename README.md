@@ -40,11 +40,11 @@ Node.js, Express.js
 
 ### 🗄️ Database
 
-MongoDB
+MongoDB, MySQL
 
 ### 🔧 Tools
 
-Git, GitHub, Vercel
+Git, GitHub, Vercel, Netlify
 
 ---
 
