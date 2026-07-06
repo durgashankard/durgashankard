@@ -1,158 +1,214 @@
-# 👋 Hi, I'm Durgashankar
+<div align="center">
 
-🚀 **MERN Stack Developer | React Specialist | JavaScript Enthusiast**
+# 👋 Hi, I'm Durgashankar Dangi
 
-![Typing](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;MERN+Stack+Learner;Building+Real+World+Projects\&center=true\&color=00FF00)
+### 🚀 Frontend Developer | React Developer | MERN Stack Learner
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;JavaScript+Developer;MERN+Stack+Learner;Open+to+Internships+%26+Jobs" />
 
-## ⭐ Highlights
-
-* 🚀 Built multiple React-based projects
-* ⚛️ Strong in Frontend Development
-* 🔥 Currently learning Full Stack (MERN)
-* ⚡ Passionate about real-world applications
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-* 💻 Frontend Developer (React Focused)
-* 🌐 Skilled in HTML, CSS, JavaScript
-* 🔗 Love working with APIs & dynamic apps
-* 📦 Learning Backend (Node.js, Express, MongoDB)
+I'm a passionate Frontend Developer from India who enjoys building modern, responsive, and user-friendly web applications.
+
+- 💻 Frontend Developer (React.js)
+- 🌱 Currently learning MERN Stack
+- ⚡ Strong understanding of JavaScript (ES6+)
+- 🎯 Goal: Become a Full Stack Developer
+- 🚀 Open to Internship & Full-time opportunities
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,git,github" />
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind"/>
+
 </p>
 
-### 💻 Frontend
+## Backend
 
-React JS, JavaScript (ES6+), HTML5, CSS3, Tailwind, Bootstrap
+<p>
 
-### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-Node.js, Express.js
-
-### 🗄️ Database
-
-MongoDB, MySQL
-
-### 🔧 Tools
-
-Git, GitHub, Vercel, Netlify
-
----
-
-## 🚀 Featured Projects
-
-### 🌦️ Weather App
-
-* 🌐 API Integration (Real-time weather data)
-* ⚛️ Built with React
-* 📱 Responsive UI
-
-🔗 Live Demo: https://weather-app-create-using-controlled-c.netlify.app/
-
-📂 Repo: https://github.com/durgashankard/Weather-App-Create-using-Controlled-Component
-
----
-
-### 🛒 E-commerce Product Page
-
-* 🛍️ Product listing & filtering
-* ⚛️ React + API integration
-* 🎯 Clean UI design
-
-🔗 Live Demo: 
-
-📂 Repo: 
-
----
-
-### 🌐 Portfolio Website
-
-* 💼 Personal portfolio
-* 🎨 Modern UI design
-* ⚡ Fully responsive
-
-🔗 Live Demo: 
-
-📂 Repo: 
-
----
-
-## 📚 Currently Learning
-
-* ⚛️ Advanced React (Performance Optimization)
-* 🌐 Backend Development (Node.js, Express)
-* 🧠 Data Structures & Algorithms
-* 🏗️ System Design Basics
-
----
-
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=durgashankard&show_icons=true&theme=radical&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgashankard&layout=donut"/>
 </p>
 
-![Streak](https://streak-stats.demolab.com?user=durgashankard\&theme=radical)
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify"/>
+
+</p>
 
 ---
 
-## 🏆 Achievements
+# 🌟 Featured Projects
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=durgashankard\&theme=radical)
+## 🌦 Weather App
 
----
+React Weather Application using OpenWeather API.
 
-## 📈 Activity Graph
+### Features
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=durgashankard\&theme=react-dark)
+- Real-Time Weather
+- Search by City
+- Responsive UI
+- API Integration
 
----
+🔗 Live
 
-## 🐍 Contribution Snake
+https://weather-app-create-using-controlled-c.netlify.app/
 
-![Snake](https://github.com/durgashankard/durgashankard/blob/output/github-contribution-grid-snake.svg)
+📂 Repository
 
----
-
-## 🎯 Looking For
-
-* 💼 Frontend / React Developer Role
-* 🚀 Internship / Full-time opportunities
-* 🌍 Open Source Contributions
+https://github.com/durgashankard/Weather-App-Create-using-Controlled-Component
 
 ---
 
-## 🌐 Connect with Me
+## 🛒 Shopping Website
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/durgashankar-dangi-631b08259/)
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge)](https://www.instagram.com/durgashankar_dangi713/)
+Responsive shopping website built using React.
 
+### Features
 
-
----
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=durgashankard\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)
+- Product Listing
+- Product Details
+- Responsive Design
+- API Integration
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+## 🎫 Unified Ticket Booking System
+
+A MERN Stack application for booking:
+
+- Flight
+- Train
+- Bus
+- Hotel
+- Movie
+
+### Tech Used
+
+React • Node • Express • MongoDB
 
 ---
 
-> 💡 **"Code. Learn. Build. Repeat."**
+# 📚 Currently Learning
+
+- Advanced React
+- Redux Toolkit
+- Node.js
+- Express.js
+- MongoDB
+- REST API
+- Authentication
+- Data Structures & Algorithms
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=durgashankard&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgashankard&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=durgashankard&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=durgashankard&theme=algolia&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=durgashankard&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 Goals for 2026
+
+- ✅ Master React
+- ✅ Learn Backend
+- ✅ Build 15+ Projects
+- ✅ Contribute to Open Source
+- ✅ Crack Frontend Developer Role
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/durgashankar-dangi-631b08259">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:ddangi8103@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/durgashankard">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=durgashankard&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💡 Quote
+
+> "Every expert was once a beginner. Keep building, keep learning."
+
+⭐ From Durgashankar Dangi
+
+</div>
