@@ -383,6 +383,7 @@ console.log("Always learning. Always building. 🚀");
 
 
 
+
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -399,6 +400,7 @@ console.log("Always learning. Always building. 🚀");
 
 ---
 
+
 # 📈 Contribution Graph
 
 <div align="center">
@@ -409,11 +411,12 @@ console.log("Always learning. Always building. 🚀");
 
 ---
 
+
 # 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=durgashankard&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=durgashankard&theme=algolia&row=1&column=6&no-frame=true&no-bg=true"/>
 
 </div>
 
