@@ -388,59 +388,52 @@ console.log("Always learning. Always building. 🚀");
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=durgashankard&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgashankard&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=durgashankard&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgashankard&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 <br><br>
-
-<img src="https://streak-stats.demolab.com?user=durgashankard&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=durgashankard&theme=tokyonight"/>
 
 </div>
 
 ---
-
 
 # 📈 Contribution Graph
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=durgashankard&theme=tokyo-night&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=durgashankard&theme=tokyo-night"/>
 
 </div>
 
 ---
-
 
 # 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=durgashankard&theme=algolia&row=1&column=6&no-frame=true&no-bg=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=durgashankard&theme=algolia&margin-w=12&margin-h=12&column=4&no-frame=true&no-bg=true"/>
 
 </div>
 
 ---
 
-
 # 🐍 Contribution Snake
+
+> **Note:** Run the GitHub Action in your profile repo first to generate the snake animation.
 
 <div align="center">
 
 <picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/durgashankard/durgashankard/output/github-contribution-grid-snake-dark.svg"/>
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/durgashankard/durgashankard/output/github-contribution-grid-snake.svg"/>
-
-<img alt="Contribution Snake"
-src="https://raw.githubusercontent.com/durgashankard/durgashankard/output/github-contribution-grid-snake.svg"/>
-
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/durgashankard/durgashankard/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/durgashankard/durgashankard/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/durgashankard/durgashankard/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
+
 ---
 
 # 🌐 Portfolio
