@@ -39,7 +39,8 @@
 <img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 
-I'm **Durgashankar Dangi**, a passionate **Frontend Developer** from **India 🇮🇳** with a strong interest in creating modern, responsive, and user-friendly web applications.
+I'm **Durgashankar Dangi**, a passionate **Frontend Developer** 
+from **India 🇮🇳** with a strong interest in creating modern, responsive, and user-friendly web applications.
 
 I completed my **Bachelor of Computer Applications (BCA)** in **2025** and have built multiple real-world projects using **React.js**, **JavaScript**, **HTML**, **CSS**, **Bootstrap**, and **Tailwind CSS**.
 
