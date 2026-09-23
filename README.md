@@ -635,4 +635,4 @@ Interested in collaborating, discussing projects, or talking about opportunities
 
 If you find my projects useful, feel free to explore the repositories and connect with me.
 
-<br/> <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F2027,50:203A43,100:2C5364"/> </div> ```
+<br/> <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F2027,50:203A43,100:2C5364"/> </div> 
