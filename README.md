@@ -538,3 +538,101 @@ Authentication
 Protected Routes
 Responsive UI
 Reusable Components
+```
+
+---
+
+# 💡 Developer Philosophy
+
+```text
+const developer = {
+  name: "Durgashankar Dangi",
+
+  role: "MERN Stack Developer",
+
+  technologies: [
+    "React.js",
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "Express.js",
+    "MongoDB"
+  ],
+
+  mindset: "Always Learning",
+
+  approach: [
+    "Understand the problem",
+    "Build a solution",
+    "Test the implementation",
+    "Learn from mistakes",
+    "Improve continuously"
+  ],
+
+  motto: "Code. Learn. Build. Repeat."
+};
+
+console.log("Always learning. Always building. 🚀");
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=durgashankard&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgashankard&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=durgashankard&theme=tokyonight"/> </div>
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<div align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=durgashankard&theme=tokyo-night"/> </div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=durgashankard&theme=algolia&margin-w=12&margin-h=12&column=4&no-frame=true&no-bg=true"/> </div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/durgashankard/durgashankard/output/github-contribution-grid-snake-dark.svg" />
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/durgashankard/durgashankard/output/github-contribution-grid-snake.svg" />
+
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/durgashankard/durgashankard/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+Interested in collaborating, discussing projects, or talking about opportunities?
+<br/> <a href="mailto:ddangi8103@gmail.com"> <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/durgashankar-dangi-631b08259/"> <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/durgashankard"> <img src="https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+
+---
+
+# 💬 Developer Quote
+
+<div align="center">
+
+"Code. Learn. Build. Repeat."
+
+</div>
+
+---
+
+<div align="center">
+⭐ Thanks for visiting my GitHub profile!
+
+If you find my projects useful, feel free to explore the repositories and connect with me.
+
+<br/> <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F2027,50:203A43,100:2C5364"/> </div> ```
